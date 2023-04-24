@@ -1,6 +1,8 @@
-Reinforcement Learning ReadMe\
-\
+Reinforcement Learning ReadMe
+
 All code is found in rl2023
+
+
 Exercise 2
 Implementation of the Q-Learning and on-policy first-visit Monte Carlo algorithms to solve OpenAI Gym Taxi-v3 environment.
 The environment is considered solved when the agent achieves return >= 7.
@@ -15,11 +17,13 @@ Environment CartPole is considered solved when the agent achieves a return >= 39
 To run ReInforce-algo, execute the train_reinforce.py script.
 To run DQN-algo, execute the train_dqn.py script.
 
+
 Exercise 4 Continuous Deep Reinforcement Learning 
 Implementation of Deep Deterministic Policy Gradient (DDPG to solve Bipedal Walker control task) 
 With standard (assignment dictated) parameters Environment is considered solved if the agent achieves a return >= -300. Our agent achieves >= -100.
 Training the agent:  execute train_ddpg.py script in exercise 4. (it takes approx. 1 hr)
 To visualise the trained agent interacting with the environment: execute evaluate_ddpg.py script in exercise 4.
+
 
 Exercise 5 Hyperparameter tuning of Exercise 4
 Implementation of various hyp-tuning methods to improve performance while keeping same neural network architecture. 
