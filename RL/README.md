@@ -2,6 +2,8 @@ Reinforcement Learning ReadMe
 
 All code is found in rl2023
 
+For each exercise - the main algorithm (agent) implementation can be found in agent.py
+
 
 Exercise 2
 Implementation of the Q-Learning and on-policy first-visit Monte Carlo algorithms to solve OpenAI Gym Taxi-v3 environment.
